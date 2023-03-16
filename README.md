@@ -13,11 +13,11 @@
 ## How to download the results?
 
 1. `pip install gdown`
-2. [DIV2K_valid](https://drive.google.com/file/d/1sgCbdmJAU_NoLydii88qi0xlg23vTVdB/view?usp=share_link): 
+2. DIV2K_valid [[Google Drive Link](https://drive.google.com/file/d/1sgCbdmJAU_NoLydii88qi0xlg23vTVdB/view?usp=share_link)]
     ```bash
     gdown 'https://drive.google.com/uc?id=1sgCbdmJAU_NoLydii88qi0xlg23vTVdB'
     ```
-    [LDSR_DIV2k_test](https://drive.google.com/file/d/1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl/view?usp=share_link):
+    LDSR_DIV2k_test [[Google Drive Link](https://drive.google.com/file/d/1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl/view?usp=share_link)]
     ```bash
     gdown 'https://drive.google.com/uc?id=1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl'
     ```
