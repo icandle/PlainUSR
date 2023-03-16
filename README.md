@@ -1,4 +1,4 @@
-# Partial Feature Distillation Network for Efficient Super-resolution
+# Partial Feature Distillation Network
 ### [NTIRE 2023 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2023/) @ [CVPR 2023](https://cvpr2023.thecvf.com/)
 
 ## How to test the baseline model?
