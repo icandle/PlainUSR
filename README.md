@@ -9,7 +9,19 @@
     CUDA_VISIBLE_DEVICES=0 python test_demo.py --data_dir [path to your data dir] --save_dir [path to your save dir] --model_id 8
     ```
     - Be sure the change the directories `--data_dir` and `--save_dir`.
-   
+
+## How to download the results?
+
+1. `pip install gdown`
+2. [DIV2K_valid](https://drive.google.com/file/d/1sgCbdmJAU_NoLydii88qi0xlg23vTVdB/view?usp=share_link): 
+    ```bash
+    gdown 'https://drive.google.com/uc?id=1sgCbdmJAU_NoLydii88qi0xlg23vTVdB'
+    ```
+    [LDSR_DIV2k_test](https://drive.google.com/file/d/1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl/view?usp=share_link):
+    ```bash
+    gdown 'https://drive.google.com/uc?id=1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl'
+    ```
+
 ## How to calculate the number of parameters, FLOPs, and activations
 
 ```python
