@@ -1,5 +1,9 @@
 # Partial Feature Distillation Network
-### [NTIRE 2023 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2023/) @ [CVPR 2023](https://cvpr2023.thecvf.com/)
+
+**Winner** for **Overall evaluation** and **4th** for **Runtime** in the [NTIRE 2023 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2023/) @ [CVPR 2023](https://cvpr2023.thecvf.com/).
+
+Paper and training codes will come soon!
+
 | <sub> Model </sub> | <sub> Runtime[ms] </sub> | <sub> Params[M] </sub> | <sub> Flops[G] </sub> |  <sub> Acts[M] </sub> | <sub> GPU Mem[M] </sub> |
 |  :----:  | :----:  |  :----:  | :----:  |  :----:  | :----:  |
 |  PFDN  | 20.49  |  0.272  | 16.76  |  65.10  | 296.45  |
