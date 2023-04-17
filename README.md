@@ -1,6 +1,6 @@
 # Partial Feature Distillation Network
 
-**Winner** for **Overall evaluation** and **4th** for **Runtime** in the [NTIRE 2023 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2023/) @ [CVPR 2023](https://cvpr2023.thecvf.com/).
+**Winner** for **Overall evaluation** and **4th** for **Runtime** in the [NTIRE 2023 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2023/).
 
 Paper and training codes will come soon!
 
