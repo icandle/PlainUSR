@@ -6,6 +6,7 @@ Paper and training codes will come soon!
 
 | <sub> Model </sub> | <sub> Runtime[ms] </sub> | <sub> Params[M] </sub> | <sub> Flops[G] </sub> |  <sub> Acts[M] </sub> | <sub> GPU Mem[M] </sub> |
 |  :----:  | :----:  |  :----:  | :----:  |  :----:  | :----:  |
+|  RFDN  | 35.54  |  0.433  | 27.10  |  112.03  | 788.13  |
 |  PFDN  | 20.49  |  0.272  | 16.76  |  65.10  | 296.45  |
 ## How to test the baseline model?
 
