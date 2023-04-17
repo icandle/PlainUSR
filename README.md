@@ -23,7 +23,7 @@ Paper and training codes will come soon!
     ```bash
     gdown 'https://drive.google.com/uc?id=1sgCbdmJAU_NoLydii88qi0xlg23vTVdB'
     ```
-    LDSR_DIV2K_test Results [[Google Drive Link](https://drive.google.com/file/d/1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl/view?usp=share_link)]
+    LSDIR_DIV2K_test Results [[Google Drive Link](https://drive.google.com/file/d/1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl/view?usp=share_link)]
     ```bash
     gdown 'https://drive.google.com/uc?id=1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl'
     ```
