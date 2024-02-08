@@ -23,7 +23,7 @@ To be updated.
 
 To be updated.
 
-## IV. Reimplementation for NTIRE Challenge
+## IV. NTIRE Challenge
 ### How to test the baseline model?
 
 1. `git clone https://github.com/icandle/PFDN.git`
