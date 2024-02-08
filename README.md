@@ -23,7 +23,8 @@ To be updated.
 
 To be updated.
 
-## IV. How to test the baseline model?
+## IV. Reimplementation for NTIRE Challenge
+### How to test the baseline model?
 
 1. `git clone https://github.com/icandle/PFDN.git`
 2. Select the model you would like to test from [`run.sh`](./run.sh)
@@ -32,7 +33,7 @@ To be updated.
     ```
     - Be sure the change the directories `--data_dir` and `--save_dir`.
 
-## V. How to download the results?
+### How to download the results?
 
 1. `pip install gdown`
 2. DIV2K_valid Results [[Google Drive Link](https://drive.google.com/file/d/1sgCbdmJAU_NoLydii88qi0xlg23vTVdB/view?usp=share_link)]
@@ -44,7 +45,7 @@ To be updated.
     gdown 'https://drive.google.com/uc?id=1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl'
     ```
 
-## VI. How to calculate the number of parameters, FLOPs, and activations
+### How to calculate the number of parameters, FLOPs, and activations
 
 ```python
     from utils.model_summary import get_model_flops, get_model_activation
@@ -66,5 +67,5 @@ To be updated.
     print("{:>16s} : {:<.4f} [M]".format("#Params", num_parameters))
 ```
 
-## License and Acknowledgement
+## V. License and Acknowledgement
 This code repository is release under [MIT License](LICENSE). 
