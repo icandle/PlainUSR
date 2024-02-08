@@ -2,7 +2,7 @@
 # Chasing Faster ConvNet for Efficient Super-Resolution
 Paper and training codes will come soon!
 
-## I. PFDN for NTIRE 2023 ESR
+## I. PlainFDN for NTIRE 2023 ESR
 
 **Winner** of **Overall evaluation** and **4th** of **Runtime** in the NTIRE 2023 Challenge on Efficient Super-Resolution [[Pages](https://cvlai.net/ntire/2023/)/[Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)].
 
