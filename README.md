@@ -1,14 +1,25 @@
-# Partial Feature Distillation Network
 
-**Winner** of **Overall evaluation** and **4th** of **Runtime** in the [NTIRE 2023 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2023/).
-
+# Chasing Faster ConvNet for Efficient Super-Resolution
 Paper and training codes will come soon!
+
+## I. PFDN for NTIRE 2023 ESR
+
+**Winner** of **Overall evaluation** and **4th** of **Runtime** in the NTIRE 2023 Challenge on Efficient Super-Resolution [[Pages](https://cvlai.net/ntire/2023/)/[Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)].
 
 | <sub> Model </sub> | <sub> Runtime[ms] </sub> | <sub> Params[M] </sub> | <sub> Flops[G] </sub> |  <sub> Acts[M] </sub> | <sub> GPU Mem[M] </sub> |
 |  :----:  | :----:  |  :----:  | :----:  |  :----:  | :----:  |
 |  RFDN  | 35.54  |  0.433  | 27.10  |  112.03  | 788.13  |
 |  PFDN  | 20.49  |  0.272  | 16.76  |  65.10  | 296.45  |
-## How to test the baseline model?
+
+## II. PlainUSR for NTIRE 2024 ESR
+
+To be updated.
+
+## III. PlainUSR 
+
+To be updated.
+
+## IV. How to test the baseline model?
 
 1. `git clone https://github.com/icandle/PFDN.git`
 2. Select the model you would like to test from [`run.sh`](./run.sh)
@@ -17,7 +28,7 @@ Paper and training codes will come soon!
     ```
     - Be sure the change the directories `--data_dir` and `--save_dir`.
 
-## How to download the results?
+## V. How to download the results?
 
 1. `pip install gdown`
 2. DIV2K_valid Results [[Google Drive Link](https://drive.google.com/file/d/1sgCbdmJAU_NoLydii88qi0xlg23vTVdB/view?usp=share_link)]
@@ -29,7 +40,7 @@ Paper and training codes will come soon!
     gdown 'https://drive.google.com/uc?id=1CgPkAi0TcCVB85_T7HpXcEcPtfZfQWtl'
     ```
 
-## How to calculate the number of parameters, FLOPs, and activations
+## VI. How to calculate the number of parameters, FLOPs, and activations
 
 ```python
     from utils.model_summary import get_model_flops, get_model_activation
