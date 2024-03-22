@@ -15,7 +15,7 @@ Paper and training codes will come soon!
 |  RFDN  | 35.54  |  0.433  | 27.10  |  112.03  | 788.13  |
 |  PFDN  | 20.49  |  0.272  | 16.76  |  65.10  | 296.45  |
 
-## II. PlainUSR for NTIRE 2024 ESR
+## II. PFDNLite for NTIRE 2024 ESR
 
 To be updated.
 
