@@ -9,6 +9,20 @@ The repo is still under construction!
 
 ☁️ EFDN for NTIRE 2022 ESR
 ---
+> ***Edge-enhanced Feature Distillation Network for Efficient Super-Resolution*** \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en) \
+> Nankai University
+
+<a href="https://arxiv.org/abs/2204.08759" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2204.08759-b31b1b.svg?style=flat" /></a>
+<a href="https://github.com/icandle/EFDN/blob/main/LICENSE" alt="license">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-%23B7A800" /></a> 
+<a href="https://data.vision.ee.ethz.ch/cvl/ntire22/posters/Wang_Edge_074-poster-Edge-enhanced%20Feature%20Distillation%20Network%20for%20Efficient%20Super-Resolution.pdf" alt="Poster">
+    <img src="https://img.shields.io/badge/poster-NTIRE 2022-brightgreen" /></a> 
+<a href="https://github.com/icandle/EFDN" alt="Poster">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
+</p>
+
 
 **5th** of **Model Complexity** in the [NTIRE 2022](https://cvlai.net/ntire/2022/) Challenge on Efficient Super-Resolution [[Report](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_NTIRE_2022_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.pdf)/[Paper](https://arxiv.org/pdf/2204.08759.pdf)/[Code](https://github.com/icandle/EFDN)].
 
@@ -31,6 +45,15 @@ To be updated.
 
 🌤️ PlainUSR for ACCV 2024
 ---
+> ***PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution*** \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en)<sup>†</sup>, [Yusen Li](https://scholar.google.com/citations?user=4EJ9aekAAAAJ&hl=en&oi=ao)<sup>†</sup>, Gang Wang, Xiaoguang Liu \
+> Nankai University 
+
+<a href="https://arxiv.org/abs/2409.13435" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2409.13435-b31b1b.svg?style=flat" /></a>
+<a href="https://github.com/icandle/PlainUSR/blob/main/LICENSE" alt="license">
+    <img src="https://img.shields.io/badge/license-MIT--License-%23B7A800" /></a>
+</p>
 
 To be updated.
 
