@@ -28,6 +28,15 @@ The repo is still under construction!
 
 🌥️ PFDN for NTIRE 2023 ESR
 ---
+> ***Partial Feature Distillation Network for Efficient Super-Resolution*** \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), Erlin Pan, Qixuan Cai, Xinan Dai \
+> Nankai University, University of Electronic Science and Technology of China, Tianjin University
+
+<a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper" alt="Report">
+    <img src="https://img.shields.io/badge/report-NTIRE 2023-367DBD" /></a>
+<a href="https://github.com/icandle/PlainUSR/blob/main/models/team08_PFDN.py" alt="Report">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
+</p>
 
 **Winner** of **Overall Evaluation** and **4th** of **Runtime** in the [NTIRE 2023](https://cvlai.net/ntire/2023/) Challenge on Efficient Super-Resolution [[Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)].
 
@@ -38,6 +47,15 @@ The repo is still under construction!
 
 ⛅️ PFDNLite for NTIRE 2024 ESR
 ---
+> ***Lightening Partial Feature Distillation Network for Efficient Super-Resolution*** \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), Yi Liu, Qing Wang, Gang Zhang, Liou Zhang, Shijie Zhao \
+> Nankai University, ByteDance
+
+<a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper" alt="Report">
+    <img src="https://img.shields.io/badge/report-NTIRE 2023-367DBD" /></a>
+<a href="https://github.com/icandle/BSR" alt="Report">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
+</p>
 
 **3rd** of **Overall Evaluation** and **3rd** of **Runtime** in the NTIRE 2024 Challenge on Efficient Super-Resolution [[Pages](https://cvlai.net/ntire/2024/)/[Report](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.pdf)].
 
