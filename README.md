@@ -24,8 +24,9 @@ The repo is still under construction!
 </p>
 
 
-**Summary**: **5th** solution of **Model Complexity** in the [NTIRE 2022](https://cvlai.net/ntire/2022/) Challenge on Efficient Super-Resolution. 
-- *Convolution*: we propose an edge-ehanced reparameter block (EDBB) together with a corresponding edge loss.
+**Summary**: **5th** solution of **Model Complexity** in the [NTIRE 2022](https://cvlai.net/ntire/2022/) Challenge on Efficient Super-Resolution. Involoving the modification of convolutiona and network architecture.
+- *Convolution*: we propose an edge-ehanced reparameter block (EDBB) with a corresponding edge loss.
+- *Attention*: We utilize the original ESA.
 - *Backbone*: we utilize the network-level NAS strategy to search a backbone.
 
 
@@ -42,7 +43,7 @@ The repo is still under construction!
     <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
 </p>
 
-**Winner** of **Overall Evaluation** and **4th** of **Runtime** in the [NTIRE 2023](https://cvlai.net/ntire/2023/) Challenge on Efficient Super-Resolution [[Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)].
+**Summary**: **Winner** of **Overall Evaluation** and **4th** of **Runtime** in the [NTIRE 2023](https://cvlai.net/ntire/2023/) Challenge on Efficient Super-Resolution [[Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)].
 
 | <sub> Model </sub> | <sub> Runtime[ms] </sub> | <sub> Params[M] </sub> | <sub> Flops[G] </sub> |  <sub> Acts[M] </sub> | <sub> GPU Mem[M] </sub> |
 |  :----:  | :----:  |  :----:  | :----:  |  :----:  | :----:  |
