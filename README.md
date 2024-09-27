@@ -24,7 +24,11 @@ The repo is still under construction!
 </p>
 
 
-**5th** of **Model Complexity** in the [NTIRE 2022](https://cvlai.net/ntire/2022/) Challenge on Efficient Super-Resolution [[Report](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_NTIRE_2022_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.pdf)/[Paper](https://arxiv.org/pdf/2204.08759.pdf)/[Code](https://github.com/icandle/EFDN)].
+**Summary**: **5th** solution of **Model Complexity** in the [NTIRE 2022](https://cvlai.net/ntire/2022/) Challenge on Efficient Super-Resolution. 
+- *Convolution*: we propose an edge-ehanced reparameter block (EDBB) together with a corresponding edge loss.
+- *Backbone*: we utilize the network-level NAS strategy to search a backbone.
+
+
 
 🌥️ PFDN for NTIRE 2023 ESR
 ---
@@ -57,14 +61,14 @@ The repo is still under construction!
     <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
 </p>
 
-**3rd** of **Overall Evaluation** and **3rd** of **Runtime** in the NTIRE 2024 Challenge on Efficient Super-Resolution [[Pages](https://cvlai.net/ntire/2024/)/[Report](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.pdf)].
+**3rd** of **Overall Evaluation** and **3rd** of **Runtime** in the [NTIRE 2024](https://cvlai.net/ntire/2024/) Challenge on Efficient Super-Resolution [[Pages](https://cvlai.net/ntire/2024/)/[Report](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.pdf)].
 
 To be updated.
 
 🌤️ PlainUSR for ACCV 2024
 ---
 > ***PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution*** \
-> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en)<sup>†</sup>, [Yusen Li](https://scholar.google.com/citations?user=4EJ9aekAAAAJ&hl=en&oi=ao)<sup>†</sup>, Gang Wang, Xiaoguang Liu \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), [Yusen Li](https://scholar.google.com/citations?user=4EJ9aekAAAAJ&hl=en&oi=ao)<sup>†</sup>, Gang Wang, Xiaoguang Liu \
 > Nankai University 
 
 <a href="https://arxiv.org/abs/2409.13435" alt="arXiv">
