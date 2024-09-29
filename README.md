@@ -100,4 +100,25 @@ To be updated.
 
 To be updated.
 
+💖 Acknowledgments
+---
+We would thank [BasicSR](https://github.com/XPixelGroup/BasicSR), [ECBSR](https://github.com/xindongzhang/ECBSR), [DBB](https://github.com/DingXiaoH/DiverseBranchBlock), [ETDS](https://github.com/ECNUSR/ETDS), [FasterNet](https://github.com/JierunChen/FasterNet), etc, for their enlightening work!
 
+🎓 Citation
+---
+```
+@inproceedings{wang2022edge,
+  title={Edge-enhanced Feature Distillation Network for Efficient Super-Resolution},
+  author={Wang, Yan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  pages={777--785},
+  year={2022}
+}
+
+@article{wang2024plainusr,
+  title={PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution},
+  author={Wang, Yan and Li, Yusen and Wang, Gang and Liu, Xiaoguang},
+  journal={arXiv preprint arXiv:2409.13435},
+  year={2024}
+}
+```
