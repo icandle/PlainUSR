@@ -15,8 +15,6 @@ The repo is still under construction!
 
 <a href="https://arxiv.org/abs/2204.08759" alt="arXiv">
     <img src="https://img.shields.io/badge/arXiv-2204.08759-b31b1b.svg?style=flat" /></a>
-<a href="https://github.com/icandle/EFDN/blob/main/LICENSE" alt="license">
-    <img src="https://img.shields.io/badge/license-Apache--2.0-%23B7A800" /></a> 
 <a href="https://data.vision.ee.ethz.ch/cvl/ntire22/posters/Wang_Edge_074-poster-Edge-enhanced%20Feature%20Distillation%20Network%20for%20Efficient%20Super-Resolution.pdf" alt="Poster">
     <img src="https://img.shields.io/badge/poster-NTIRE 2022-brightgreen" /></a> 
 <a href="https://github.com/icandle/EFDN" alt="Poster">
