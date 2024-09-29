@@ -24,10 +24,10 @@ The repo is still under construction!
 </p>
 
 
-**Summary**: **5th** solution of **Model Complexity** in the [NTIRE 2022](https://cvlai.net/ntire/2022/) Challenge on Efficient Super-Resolution. Involoving the modification of convolutiona and network architecture.
-- *Convolution*: we propose an edge-ehanced reparameter block (EDBB) with a corresponding edge loss.
-- *Attention*: We utilize the original ESA.
-- *Backbone*: we utilize the network-level NAS strategy to search a backbone.
+**Summary**: **5th** solution of **Model Complexity** in the [NTIRE 2022](https://cvlai.net/ntire/2022/) Challenge on Efficient Super-Resolution. Involoving the modification of convolution and network architecture.
+- *Convolution* 🌟: edge-ehanced reparameter block (EDBB) with a corresponding edge loss .
+- *Attention*: original ESA.
+- *Backbone*: backbone searched by network-level NAS.
 
 
 
@@ -43,7 +43,11 @@ The repo is still under construction!
     <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
 </p>
 
-**Summary**: **Winner** of **Overall Evaluation** and **4th** of **Runtime** in the [NTIRE 2023](https://cvlai.net/ntire/2023/) Challenge on Efficient Super-Resolution [[Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)].
+**Summary**: **Winner** of **Overall Evaluation** and **4th** of **Runtime** in the [NTIRE 2023](https://cvlai.net/ntire/2023/) Challenge on Efficient Super-Resolution. Involoving the modification of convolution and network architecture.
+- *Convolution* ⭐️: integrating partial convolution and RRRB.
+- *Attention*: efficient ESA.
+- *Backbone*: ResNet-style backbone.
+
 
 | <sub> Model </sub> | <sub> Runtime[ms] </sub> | <sub> Params[M] </sub> | <sub> Flops[G] </sub> |  <sub> Acts[M] </sub> | <sub> GPU Mem[M] </sub> |
 |  :----:  | :----:  |  :----:  | :----:  |  :----:  | :----:  |
@@ -62,7 +66,10 @@ The repo is still under construction!
     <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
 </p>
 
-**3rd** of **Overall Evaluation** and **3rd** of **Runtime** in the [NTIRE 2024](https://cvlai.net/ntire/2024/) Challenge on Efficient Super-Resolution [[Pages](https://cvlai.net/ntire/2024/)/[Report](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.pdf)].
+**Summary**: **3rd** of **Overall Evaluation** and **3rd** of **Runtime** in the [NTIRE 2024](https://cvlai.net/ntire/2024/) Challenge on Efficient Super-Resolution. Involoving the modification of convolution, attention and network pruning. Actually, it is a plain version of PlainUSR.
+- *Convolution*: RepMBConv.
+- *Attention*: LIA.
+- *Backbone*: ABPN-style backbone.
 
 To be updated.
 
