@@ -32,12 +32,12 @@ The repo is still under construction!
 🌥️ PFDN for NTIRE 2023 ESR
 ---
 > ***Partial Feature Distillation Network for Efficient Super-Resolution*** \
-> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), Erlin Pan, Qixuan Cai, Xinan Dai \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), [Erlin Pan](https://scholar.google.com/citations?user=Z6RyGacAAAAJ&hl=en&oi=ao), [Qixuan Cai](https://scholar.google.com/citations?user=tPbL7HMAAAAJ&hl=en&oi=ao), Xinan Dai \
 > Nankai University, University of Electronic Science and Technology of China, Tianjin University
 
 <a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper" alt="Report">
     <img src="https://img.shields.io/badge/report-NTIRE 2023-367DBD" /></a>
-<a href="https://github.com/icandle/PlainUSR/blob/main/factsheet/08-PFDN-Factsheet.pdf">
+<a href="https://github.com/icandle/PlainUSR/blob/main/2023_PFDN_NTIRE/factsheet/08-PFDN-Factsheet.pdf">
     <img src="https://img.shields.io/badge/docs-factsheet-8A2BE2" /></a>
 <a href="https://github.com/icandle/PlainUSR/blob/main/models/team08_PFDN.py" alt="Report">
     <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
