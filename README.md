@@ -73,8 +73,6 @@ The repo is still under construction!
 - 📦 *Attention*: LIA in PlainUSR.
 - ⭐️ *Backbone*: ABPN-style backbone and block pruning.
 
-To be updated.
-
 🌤️ PlainUSR for ACCV 2024
 ---
 > ***PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution*** \
@@ -92,8 +90,22 @@ To be updated.
 - ⭐️ *Attention*: Local Importance-based Attention (LIA).
 - 🌟 *Backbone*: Plain U-Net.
 
+🌤️ ESPAN for NTIRE 2025 ESR
+---
+> ***Expanded SPAN for Efficient Super-Resolution*** \
+> [Qing Wang](https://scholar.google.com/citations?user=FT9ZYSwAAAAJ&hl=en&oi=sra), [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), [Hongyu An](https://scholar.google.com/citations?user=pPsK7L4AAAAJ&hl=en&oi=sra), Yi Liu, Liou Zhang, Shijie Zhao \
+> ByteDance
 
-To be updated.
+<a href="https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/papers/Wang_Expanded_SPAN_for_Efficient_Super-Resolution_CVPRW_2025_paper.pdf" alt="Report">
+    <img src="https://img.shields.io/badge/CVF-NTIRE 2025-367DBD" /></a>
+<a href="">
+    <img src="https://img.shields.io/badge/docs-factsheet-8A2BE2" /></a>
+<a href="" alt="Report">
+    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
+</p> 
+
+**Summary**: **5th** of **Overall Evaluation** and **3rd** of **Runtime** in the [NTIRE 2024](https://cvlai.net/ntire/2024/) Challenge on Efficient Super-Resolution.
+
 
 ☀️ PlainUSRv2 
 ---
@@ -115,10 +127,19 @@ We would thank [BasicSR](https://github.com/XPixelGroup/BasicSR), [ECBSR](https:
   year={2022}
 }
 
-@article{wang2024plainusr,
+@inproceedings{wang2024plainusr,
   title={PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution},
   author={Wang, Yan and Li, Yusen and Wang, Gang and Liu, Xiaoguang},
-  journal={arXiv preprint arXiv:2409.13435},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  pages={4262--4279},
   year={2024}
+}
+
+@inproceedings{wang2025expanded,
+  title={Expanded SPAN for Efficient Super-Resolution},
+  author={Wang, Qing and Wang, Yang and An, Hongyu and Liu, Yi and Zhang, Liou and Zhao, Shijie},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  pages={967--976},
+  year={2025}
 }
 ```
