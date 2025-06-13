@@ -32,7 +32,7 @@ The repo is still under construction!
 🌥️ PFDN for NTIRE 2023 ESR
 ---
 > ***Partial Feature Distillation Network for Efficient Super-Resolution*** \
-> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), [Erlin Pan](https://scholar.google.com/citations?user=Z6RyGacAAAAJ&hl=en&oi=ao), [Qixuan Cai](https://scholar.google.com/citations?user=tPbL7HMAAAAJ&hl=en&oi=ao), Xinan Dai \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), [Erlin Pan](https://scholar.google.com/citations?user=Z6RyGacAAAAJ&hl=en&oi=ao)<sup>†</sup>, [Qixuan Cai](https://scholar.google.com/citations?user=tPbL7HMAAAAJ&hl=en&oi=ao), Xinan Dai \
 > Nankai University, University of Electronic Science and Technology of China, Tianjin University
 
 <a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper" alt="Report">
@@ -57,7 +57,7 @@ The repo is still under construction!
 ⛅️ PFDNLite for NTIRE 2024 ESR
 ---
 > ***Lightening Partial Feature Distillation Network for Efficient Super-Resolution*** \
-> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), Yi Liu, Qing Wang, Gang Zhang, Liou Zhang, Shijie Zhao \
+> [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), Yi Liu, Qing Wang, Gang Zhang, Liou Zhang, Shijie Zhao<sup>†</sup> \
 > Nankai University, ByteDance
 
 <a href="https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.pdf" alt="Report">
@@ -93,7 +93,7 @@ The repo is still under construction!
 🌤️ ESPAN for NTIRE 2025 ESR
 ---
 > ***Expanded SPAN for Efficient Super-Resolution*** \
-> [Qing Wang](https://scholar.google.com/citations?user=FT9ZYSwAAAAJ&hl=en&oi=sra), [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), [Hongyu An](https://scholar.google.com/citations?user=pPsK7L4AAAAJ&hl=en&oi=sra), Yi Liu, Liou Zhang, Shijie Zhao \
+> [Qing Wang](https://scholar.google.com/citations?user=FT9ZYSwAAAAJ&hl=en&oi=sra), [Yan Wang](https://scholar.google.com/citations?user=SXIehvoAAAAJ&hl=en), [Hongyu An](https://scholar.google.com/citations?user=pPsK7L4AAAAJ&hl=en&oi=sra), Yi Liu, Liou Zhang, Shijie Zhao<sup>†</sup> \
 > ByteDance
 
 <a href="https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/papers/Wang_Expanded_SPAN_for_Efficient_Super-Resolution_CVPRW_2025_paper.pdf" alt="Report">
